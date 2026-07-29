@@ -1,1 +1,10 @@
-
+[
+  {
+    "id": "wf001",
+    "name": "simple black",
+    "imageUrl": "https://i.imgur.com/xxxxx.png",
+    "apkUrl": "https://github.com/aapka-username/watchface-catalog/raw/main/apks/wf001.apk",
+    "packageName": "com.yourstudio.wf001",
+    "sizeMb": 3.2
+  }
+]
